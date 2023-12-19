@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTM3U
 #EXTINF:-1,CNN international
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,CNN international
