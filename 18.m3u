@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 ,Hustler
+http://193.111.244.35:7474/hustlerhd/manifest.m3u8
+#EXTINF:-1 ,Hustler
+http://23.237.100.82:8000/HUSTLER/index.m3u8
+#EXTINF:-1 ,PENTHOUSE
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1 ,PENTHOUSE GOLD
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 ,PLAYBOY
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
+#EXTINF:-1 ,PURETABOO
+http://78.47.224.234/puretaboo/index.m3u8
+#EXTINF:-1 ,Redlight
+http://51.159.102.100/RedlightHD/index.m3u8
+#EXTINF:-1 ,BRAZZERS
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1 ,Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 ,Jasmin TV
+http://109.71.163.112:1935/live/hd.jasminchannel.stream/chunklist_w342629205.m3u8
+#EXTINF:-1 ,Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
+#EXTINF:-1 ,Miami TV Sun Beach
+http://59ec5453559f0.streamlock.net:1935/Sunbeachtv/smil:WEB/chuklist.m3u8
+
+
+
+
