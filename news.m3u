@@ -35,6 +35,8 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.
 http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 #EXTINF:-1,BBC News
 http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/2475/index.m3u8
+#EXTINF:-1 ,GB News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 #EXTINF:-1,Euro News
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
 #EXTINF:-1,Euro News
