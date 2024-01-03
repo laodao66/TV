@@ -51,8 +51,6 @@ https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/ewnsabren_eng.m3u8
 #EXTINF:-1,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1,DW
-https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
 #EXTINF:-1,NHK world
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1,NHK world
