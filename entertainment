@@ -1,0 +1,112 @@
+#EXTM3U
+#EXTINF:-1 ,HBO
+http://41.205.93.154/HBO/index.m3u8
+#EXTINF:-1,HBO signature
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+#EXTINF:-1,HBO Hits
+http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+#EXTINF:-1,HBO family
+http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306439
+#EXTINF:-1 ,HBO Family
+http://170.254.18.106:80/HBO_FAMILY/index.m3u8
+#EXTINF:-1 ,Hollywood
+http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
+#EXTINF:-1 ,Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1,CINEMAX
+http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+#EXTINF:-1,CINEMAX
+http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+#EXTINF:-1,Cinevault Westerns HD
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1,CinemaWorld
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683146
+#EXTINF:-1,MOVIETIME HD
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176921
+#EXTINF:-1 ,Rakuten Action
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Rakuten Family
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Rakuten TV Comedy Movies
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,SYFY HD
+http://38.96.178.201:80/live/SYFYHD/index.m3u8
+#EXTINF:-1 ,AMC Movie
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1 ,AMC Thrillers
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1 ,Film Stream 电影
+https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Film Stream 电影
+https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,USA
+http://38.96.178.201:80/live/USA/index.m3u8
+#EXTINF:-1 ,TBS
+http://38.96.178.201:80/live/TBS/index.m3u8
+#EXTINF:-1 ,The Film Detective
+https://tfd-distro.amagi.tv/index.m3u8
+#EXTINF:-1 ,AXN HD
+http://50.7.137.106:8080/AXN/index.m3u8?token=test
+#EXTINF:-1 ,Horror Machine
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
+#EXTINF:-1 ,MOVIE SPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,MOVIE SPHERE
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 ,Anger Management
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermanagement-lgus/playlist.m3u8
+#EXTINF:-1 ,Comedy Central
+http://38.96.178.201:80/live/ComedyCentral/index.m3u8
+#EXTINF:-1,BBC earth
+http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306363
+#EXTINF:-1,BBC earth
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176867
+#EXTINF:-1,BBC Lifestyle
+http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306467
+#EXTINF:-1 ,Discovery
+http://38.96.178.201:80/live/Discovery/index.m3u8
+#EXTINF:-1 ,Discovery Asia
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
+#EXTINF:-1 ,Discovery
+http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 ,Xplore
+http://xlpore-samsungus.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,History
+http://38.96.178.201:80/live/History/index.m3u8
+#EXTINF:-1 ,History
+http://41.205.93.154/HISTORY/index.m3u8
+#EXTINF:-1 ,History Hit
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Real Stories
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Real Stories
+https://realstories-samsung-uk.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 ,Water Bear
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
+#EXTINF:-1 ,Wonder
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Wild Life
+https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
+#EXTINF:-1 ,Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+#EXTINF:-1 ,Outside TV
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 ,Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 ,Love Nature
+http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,Adventure Earth
+https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Animal Planet
+http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
+#EXTINF:-1 ,Animal Planet 中字
+http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+#EXTINF:-1 ,Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 ,Fashion TV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+
