@@ -46,7 +46,7 @@ http://38.96.178.201:80/live/TBS/index.m3u8
 #EXTINF:-1 ,The Film Detective
 https://tfd-distro.amagi.tv/index.m3u8
 #EXTINF:-1 ,AXN HD
-http://50.7.137.106:8080/AXN/index.m3u8?token=test
+http://198.16.100.90:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 #EXTINF:-1 ,Horror Machine
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horrormachine/playlist.m3u8
 #EXTINF:-1 ,MOVIE SPHERE
