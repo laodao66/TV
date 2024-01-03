@@ -25,8 +25,16 @@ http://38.96.178.201:80/live/FOXNEWS/index.m3u8
 http://38.96.178.201:80/live/FOXHD/index.m3u8
 #EXTINF:-1 ,Fox5 new york
 https://lnc-wnyw.tubi.video/index.m3u8
+#EXTINF:-1 ,NBC News Now
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 ,NBC New York
+http://38.96.178.201/live/NBCHD/index.m3u8
+#EXTINF:-1 ,Washington Post
+https://washingtonpost-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1,Bloomberg
 https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Yahoo Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1,BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,BBC World News
@@ -51,3 +59,13 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 ,Russia Today
+http://69.64.57.208:8080/russiatoday/playlist.m3u8
+#EXTINF:-1 ,Russia Today
+https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
+#EXTINF:-1 ,TRT WORLD
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 ,aljazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 ,aljazeera
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
