@@ -21,7 +21,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 ,Fox news
 http://38.96.178.201:80/live/FOXNEWS/index.m3u8
-#EXTINF:-1 ,Fox HD
+#EXTINF:-1 ,Fox5NY
 http://38.96.178.201:80/live/FOXHD/index.m3u8
 #EXTINF:-1 ,Fox5 new york
 https://lnc-wnyw.tubi.video/index.m3u8
