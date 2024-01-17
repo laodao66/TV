@@ -13,7 +13,7 @@ http://198.16.100.90:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=192
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,CNN international
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
-#EXTINF:-1,CNN
+#EXTINF:-1,CNN HD
 http://38.96.178.201:80/live/CNNHD/index.m3u8
 #EXTINF:-1,Fox news now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -43,7 +43,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.
 http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 #EXTINF:-1,BBC News
 http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/2475/index.m3u8
-#EXTINF:-1 ,GB News
+#EXTINF:-1,GB News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 #EXTINF:-1,Euro News
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
@@ -57,13 +57,29 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 ,Russia Today
+#EXTINF:-1,Russia Today
 http://69.64.57.208:8080/russiatoday/playlist.m3u8
-#EXTINF:-1 ,Russia Today
+#EXTINF:-1,Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
-#EXTINF:-1 ,TRT WORLD
+#EXTINF:-1,TRT WORLD
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 ,aljazeera
+#EXTINF:-1,aljazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 ,aljazeera
+#EXTINF:-1,aljazeera
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1,台视新闻
+http://livetv.skycf.eu.org/live.m3u8?c=4
+#EXTINF:-1,中视新闻
+http://livetv.skycf.eu.org/live.m3u8?c=6
+#EXTINF:-1,公视新闻
+http://livetv.skycf.eu.org/live.m3u8?c=8
+#EXTINF:-1,民视新闻
+http://livetv.skycf.eu.org/live.m3u8?c=11
+#EXTINF:-1,三立新闻
+http://livetv.skycf.eu.org/live.m3u8?c=12 
+#EXTINF:-1,TVBS新闻
+http://livetv.skycf.eu.org/live.m3u8?c=5
+#EXTINF:-1,中天新闻
+http://livetv.skycf.eu.org/live.m3u8?c=7
+#EXTINF:-1,中天亚洲
+http://livetv.skycf.eu.org/live.m3u8?c=3
