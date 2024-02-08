@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,Babes
 http://146.59.54.163/354/index.m3u8
-#EXTINF:-1 ,BRAZZERS
-http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1 ,Brazzers
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 ,Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 ,Dorcel 
@@ -12,15 +12,15 @@ http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 ,Eroxxx
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1 ,Hustler
-http://193.111.244.35:7474/hustlerhd/manifest.m3u8
-#EXTINF:-1 ,Hustler
 http://146.59.54.163/348/index.m3u8
-#EXTINF:-1 ,PENTHOUSE
-http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-#EXTINF:-1 ,PLAYBOY
-http://23.237.100.82:8000/PLAYBOY/index.m3u8
 #EXTINF:-1 ,PLAYBOY+
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6242/index.m3u8
+#EXTINF:-1 ,Pornbox
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1 ,Pornbox
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1 ,Pornbox
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
 #EXTINF:-1 ,Pornbox
 http://23.237.100.82:8000/HUSTLER/index.m3u8
 #EXTINF:-1 ,Private
