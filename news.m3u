@@ -7,52 +7,24 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1,CBS news
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-#EXTINF:-1,CNBC
-http://198.16.100.90:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
 #EXTINF:-1,CNN international
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,CNN international
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
-#EXTINF:-1,CNN HD
-http://38.96.178.201:80/live/CNNHD/index.m3u8
 #EXTINF:-1,Fox news now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,Fox news now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 ,Fox news
-http://38.96.178.201:80/live/FOXNEWS/index.m3u8
-#EXTINF:-1 ,Fox5NY
-http://38.96.178.201:80/live/FOXHD/index.m3u8
-#EXTINF:-1 ,Fox5 new york
-https://lnc-wnyw.tubi.video/index.m3u8
 #EXTINF:-1 ,NBC News Now
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 ,NBC New York
-http://38.96.178.201/live/NBCHD/index.m3u8
 #EXTINF:-1 ,Washington Post
 https://washingtonpost-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1,Bloomberg
-https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1,BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1,BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-#EXTINF:-1,BBC World News
-http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
-#EXTINF:-1,BBC News
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/2475/index.m3u8
+http://zqjy.info/tv/NzQ1Mzgz?channel=BBC%20News%20(720p)
 #EXTINF:-1,GB News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-#EXTINF:-1,Euro News
-https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
-#EXTINF:-1,Euro News
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/ewnsabren_eng.m3u8
 #EXTINF:-1,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1,NHK world
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1,NHK world
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1,CNA
@@ -61,25 +33,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://69.64.57.208:8080/russiatoday/playlist.m3u8
 #EXTINF:-1,Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
-#EXTINF:-1,TRT WORLD
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,aljazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,aljazeera
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
-#EXTINF:-1,台视新闻
-http://livetv.skycf.eu.org/live.m3u8?c=4
-#EXTINF:-1,中视新闻
-http://livetv.skycf.eu.org/live.m3u8?c=6
-#EXTINF:-1,公视新闻
-http://livetv.skycf.eu.org/live.m3u8?c=8
-#EXTINF:-1,民视新闻
-http://livetv.skycf.eu.org/live.m3u8?c=11
-#EXTINF:-1,三立新闻
-http://livetv.skycf.eu.org/live.m3u8?c=12 
-#EXTINF:-1,TVBS新闻
-http://livetv.skycf.eu.org/live.m3u8?c=5
-#EXTINF:-1,中天新闻
-http://livetv.skycf.eu.org/live.m3u8?c=7
-#EXTINF:-1,中天亚洲
-http://livetv.skycf.eu.org/live.m3u8?c=3
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u
